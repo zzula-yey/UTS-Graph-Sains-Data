@@ -1,0 +1,9 @@
+,VSM User (baris X),VSM Item (kolom X)
+Jumlah vektor,343090,122076
+Dimensi tiap vektor,122076,343090
+Shape matriks,343090 x 122076,122076 x 343090
+Rata-rata entri nol-tidak per vektor,1.491,4.189
+Median,1.0,2.0
+Maks,1128,970
+Proporsi vektor dengan 1 entri,0.8051,0.48
+Memori matriks ternormalisasi (MB),5.5,4.6

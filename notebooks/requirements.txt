@@ -1,0 +1,13 @@
+neo4j
+pandas 
+numpy 
+matplotlib 
+seaborn 
+networkx 
+scikit-learn 
+scipy 
+tqdm 
+jupyter 
+ipykernel
+networkx
+matplotlib
