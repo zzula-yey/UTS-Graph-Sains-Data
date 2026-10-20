@@ -1,4 +1,7 @@
 ﻿# UTS-Graph-Sains-Data
+Nama : Nazula Sinta Wati
+NIM  : 23031554105
+
 Ringkasan
 
 Interaksi pengunjung e-commerce (view, addtocart, transaction) dimodelkan sebagai graf bipartit berarah di Neo4j:
